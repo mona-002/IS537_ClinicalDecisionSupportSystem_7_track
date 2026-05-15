@@ -71,21 +71,6 @@ Applies probabilistic reasoning techniques (such as Bayesian networks or certain
 
 ---
 
-## 🚀 How to Run
-
-### Python components
-```bash
-cd "Problem Solving & Search"
-python main.py
-```
-
-### Prolog component
-```bash
-cd "Symbolic Reasoning (Prolog)"
-swipl -s knowledge_base.pl
-```
-
----
 
 ## 📅 Submission Date
 
